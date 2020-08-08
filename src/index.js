@@ -34,4 +34,5 @@ class ApiExample extends React.Component {
 
 ReactDOM.render(<ApiExample/>, document.getElementById('root'));
 
+// fetch 함수를 통해 서버에서 데이터를 불러오는 예제
 
